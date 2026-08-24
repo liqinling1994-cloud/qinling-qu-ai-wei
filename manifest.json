@@ -1,0 +1,23 @@
+{
+  "name": "qinling-qu-ai-wei",
+  "display_name": "中文去AI味skill",
+  "version": "2.1.0",
+  "owner": "秦岭",
+  "updated_at": "2026-08-24",
+  "status": "active",
+  "entrypoint": "SKILL.md",
+  "license": "Proprietary",
+  "repository": "https://github.com/liqinling1994-cloud/qinling-qu-ai-wei",
+  "target_platforms": [
+    "openai",
+    "claude",
+    "generic",
+    "agent-skills-compatible"
+  ],
+  "resources": {
+    "techniques": 21,
+    "templates": 15,
+    "validation_rules": 12,
+    "case_studies": 3
+  }
+}

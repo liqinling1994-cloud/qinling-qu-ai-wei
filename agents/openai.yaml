@@ -1,0 +1,8 @@
+interface:
+  display_name: "中文去AI味skill"
+  short_description: "识别并减少中文稿的模板腔、套话和空泛表达"
+  brand_color: "#D7A629"
+  default_prompt: "使用 $qinling-qu-ai-wei 优化这段中文，保留事实与观点，并说明关键修改。"
+
+policy:
+  allow_implicit_invocation: true
